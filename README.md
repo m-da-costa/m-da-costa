@@ -60,9 +60,6 @@ As a firm believer in the power of open-source, my goal is to help others unlock
 
 📈 My GitHub Stats:
 
-<!-- You can uncomment these lines and configure them with your username -->
-
-<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dm-da-costa%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 <br/>
@@ -70,4 +67,3 @@ As a firm believer in the power of open-source, my goal is to help others unlock
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dm-da-costa%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
 </p>
--->
