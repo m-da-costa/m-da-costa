@@ -57,13 +57,3 @@ Here are some of the technologies I work with regularly:
 </p>
 
 As a firm believer in the power of open-source, my goal is to help others unlock its potential. If you're building a company grounded in this philosophy, let's connect. Together, we can create innovative solutions and make a lasting impact.
-
-📈 My GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dm-da-costa%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dm-da-costa%26theme%3Ddracula"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dm-da-costa%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
-</p>
